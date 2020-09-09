@@ -19,4 +19,4 @@ A stochastic model for a time series will generally reflect the fact that observ
 In addition, time series models will often make use of the natural one-way ordering of time so that values for a given period will be expressed as deriving in some way from past values, rather than from future values (see time reversibility.)
 
 Time series analysis can be applied to real-valued, continuous data, discrete numeric data, or discrete symbolic data (i.e. sequences of characters, such as letters and words in the English language).
-https://en.wikipedia.org/wiki/Time_series
+Source: https://en.wikipedia.org/wiki/Time_series
